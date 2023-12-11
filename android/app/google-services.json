@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599567707385",
+    "project_id": "website-satgas-ppks-unimal",
+    "storage_bucket": "website-satgas-ppks-unimal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599567707385:android:80a51c95e7e3f93d018628",
+        "android_client_info": {
+          "package_name": "com.example.tga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599567707385-3pidtbtv63jitcbetfk7pqg311plfso0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tga",
+            "certificate_hash": "242742ffd251643d1629f0a4ab878b1ba01a7606"
+          }
+        },
+        {
+          "client_id": "599567707385-2jd5ao2sooso3lbchuikbd2867jn9vk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Q7pnkcnNDS_sN_TT1_hJih9Y50s6p4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599567707385-175plmp8r5fopp7v30s60imd9un83v3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
